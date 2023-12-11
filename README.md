@@ -3,10 +3,10 @@
 This is a command-line wallet application implemented in four different languages (Java, Javascript, Python, and Go). The program allows users to perform various wallet-related actions, including adding money, withdrawing money, checking the current balance, and displaying the transaction history.
 
 We can find the 4 implementations of the program in the different languages by browsing the branch corresponding to each language.
-   - Java in the branch [feature/java](https://github.com/hei-school/cc-d1-my-wallet-JrManjato/tree/feature/java).
-   - Javascript in the branch [feature/javascript](https://github.com/hei-school/cc-d1-my-wallet-JrManjato/tree/feature/javascript).
-   - Python in the branch [feature/python](https://github.com/hei-school/cc-d1-my-wallet-JrManjato/tree/feature/python).
-   - Go in the branch [feature/go](https://github.com/hei-school/cc-d1-my-wallet-JrManjato/tree/feature/go).
+   - Java in the branch [feature/java](https://github.com/hei-school/my-wallet-JrManjato/tree/feature/java).
+   - Javascript in the branch [feature/javascript](https://github.com/hei-school/my-wallet-JrManjato/tree/feature/javascript).
+   - Python in the branch [feature/python](https://github.com/hei-school/my-wallet-JrManjato/tree/feature/python).
+   - Go in the branch [feature/go](https://github.com/hei-school/my-wallet-JrManjato/tree/feature/go).
 
 ## Features
 
